@@ -1,0 +1,6 @@
+@WWC._240924.Serializer.API_HostAddress = http://localhost:5063
+
+GET {{WWC._240924.Serializer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

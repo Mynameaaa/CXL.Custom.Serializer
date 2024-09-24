@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWC.240924.Serializer.API", "WWC.240924.Serializer.API\WWC.240924.Serializer.API.csproj", "{0F780AE8-0844-4472-9D45-E0C4DA8648D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWC.240924.Serializer", "WWC.240924.Serializer\WWC.240924.Serializer.csproj", "{AC0AF1AA-73D2-4D7B-BC38-9EEE8A8C5E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F780AE8-0844-4472-9D45-E0C4DA8648D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F780AE8-0844-4472-9D45-E0C4DA8648D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F780AE8-0844-4472-9D45-E0C4DA8648D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F780AE8-0844-4472-9D45-E0C4DA8648D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0AF1AA-73D2-4D7B-BC38-9EEE8A8C5E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0AF1AA-73D2-4D7B-BC38-9EEE8A8C5E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0AF1AA-73D2-4D7B-BC38-9EEE8A8C5E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0AF1AA-73D2-4D7B-BC38-9EEE8A8C5E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF6F6801-DB4B-4F9E-89F7-523634A566D0}
+	EndGlobalSection
+EndGlobal
